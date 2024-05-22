@@ -1,2 +1,4 @@
-# 1qacCPA
-VPN
+1.首次使用# 1qacCPA
+2.VPN
+3.首次学习
+4.很难
